@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Listing
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Listing\ here.\r\n\r\n\ @author\ (Rafael\ Rodrigues\ e\ Nelson\ Santos)\r\n\ @version\ (10/04/2024)\r\n
+comment1.params=price\ street\ postalCode\ city\ area
+comment1.target=Listing(double,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment2.params=price\ street\ postalCode\ city\ area\ hasBackyard
+comment2.target=Listing(double,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ boolean)
+comment3.params=price\ city\ hasBackyard
+comment3.target=Listing(double,\ java.lang.String,\ boolean)
+comment4.params=
+comment4.target=int\ getHouseNumber()
+comment5.params=
+comment5.target=double\ getPrice()
+comment6.params=
+comment6.target=HouseData\ getDetails()
+comment7.params=city
+comment7.target=boolean\ isLocatedAt(java.lang.String)
+comment8.params=
+comment8.target=void\ displayHouse()
+numComments=9
